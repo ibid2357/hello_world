@@ -1,5 +1,4 @@
 # hello_world
-Just another repository
 
-This is an initail comment.
-I've made this change just for my practice.
+This is just practice.
+Today is 20190109.
